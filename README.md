@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in full stack development (frontend/backend), machine learning and data science
-- 🌱 I’m currently learning web development and data science, both using python and javascript 
+- 👀 I’m interested in development (frontend/backend) and network engineering
+- 🌱 I’m currently learning automation with network engineering and monitoring
