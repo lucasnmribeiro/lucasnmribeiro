@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in development (frontend/backend) and network engineering
-- 🌱 I’m currently learning automation with network engineering and monitoring
+- 👀 I’m interested in fullstack development and data analysis
+- 🌱 I’m currently learning more about node/react and data analysis with excel and power bi
